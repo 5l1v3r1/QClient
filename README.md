@@ -1,0 +1,2 @@
+# QClient
+Qostebek Chat Client
